@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WordSearchapi.iml" filepath="$PROJECT_DIR$/.idea/WordSearchapi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wordsearch-api/wordsearch-api.iml" filepath="$PROJECT_DIR$/wordsearch-api/wordsearch-api.iml" />
     </modules>
   </component>
 </project>
